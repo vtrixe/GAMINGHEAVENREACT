@@ -35,3 +35,6 @@ Copy code
 npm start
 Open the website in your browser using the URL http://localhost:3000/
 
+
+Live Site: https://gamingheaven.netlify.app/
+
